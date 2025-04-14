@@ -1,3 +1,4 @@
+storage/
 # Dependencies
 node_modules/
 .pnp/
